@@ -1,0 +1,48 @@
+body {
+	background-color: #F6F6F2;
+	}
+h1 {
+	font-family: Verdana, serif;
+	  font-weight: bold;
+	  text-align: center;
+	  font-size: +50;
+	  color: #388087;
+    }
+h2 {
+   font-family: Verdana, serif;
+      font-weight: bold;
+	  text-align: left;
+	  font-size: +40;
+	  color:  #F2F2F6;
+    }
+h3 {
+	font-family: Verdana,serif;
+	  text-align: center;
+	  font-size: +18;
+	  color: #F2F2F6;
+    }
+p {
+    font-size: +17;
+	margin: 30px;
+	color: #388087;
+	text-align: justify;
+	font-family: Open Sans, serif;
+  }
+ul {
+	list-style-type: circle;
+	font-family: Open Sans, serif;
+	text-align: justify;
+	color: #388087;
+	font-size: +17;
+}
+.row {
+  display: flex;
+}
+.column {
+  flex: 33.33%;
+  padding: 10px;
+}
+.name, .intro, .exp, .hind, .contributions {
+	background-color: #388087;
+	text-align: center;
+}

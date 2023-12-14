@@ -1,0 +1,27 @@
+#poemname {
+	border-radius: 20px;
+	background: #808080;
+	color: white;
+	font-weight: bold;
+	font-size: +22;
+	font-family: Century Gothic, serif; 
+	text-align: center;
+	padding: 12px;
+	width: 50%;
+	height: 30px;
+	margin: auto;
+}
+#poem {
+	border-radius: 25px;
+	background: #FFC0CB;
+	text-align: center;
+	margin: auto; 
+	font-family: Century Gothic, serif;
+	padding: 12px;
+	width: 99%;
+	height: 390px;
+	margin: auto; 
+}
+#closing {
+	text-align: center;
+}
